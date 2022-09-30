@@ -14,6 +14,5 @@ public class MainActivity extends AppCompatActivity {
         // Android studio
         Toast.makeText(this, "Hello android studio", Toast.LENGTH_SHORT).show();
         // b comment
-        // a comment
     }
 }
