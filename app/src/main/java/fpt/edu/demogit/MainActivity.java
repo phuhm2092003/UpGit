@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         // b comment
         Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
         Log.i("TAG", "onCreate: work của phú");
+        Toast.makeText(this, "Hello world", Toast.LENGTH_SHORT).show();
 
     }
 }
