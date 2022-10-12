@@ -14,12 +14,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         // Android studio
         Toast.makeText(this, "Hello android studio", Toast.LENGTH_SHORT).show();
-        // b comment
-        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
-        // task tin
-        Log.i("TAG", "onCreate: work của phú");
-        Toast.makeText(this, "Hello world", Toast.LENGTH_SHORT).show();
-
     }
 }
