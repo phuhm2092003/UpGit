@@ -16,6 +16,18 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "Hello android studio", Toast.LENGTH_SHORT).show();
         // b comment
         Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
+        
+        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
+        
+        
 
         Log.i("TAG", "onCreate: work của phú");
 
