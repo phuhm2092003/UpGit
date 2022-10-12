@@ -35,6 +35,6 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "CLick me", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "Hello word", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "main", Toast.LENGTH_SHORT).show();
-        // masster
+        // masster 1
     }
 }
