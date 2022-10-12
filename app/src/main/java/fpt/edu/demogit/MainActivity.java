@@ -9,7 +9,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-    Button btn, btn6;
+    Button btn, btn6, btn8;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
