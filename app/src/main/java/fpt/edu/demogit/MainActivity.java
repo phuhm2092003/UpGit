@@ -20,18 +20,7 @@ public class MainActivity extends AppCompatActivity {
         // phú sửa
         /// tú
         Toast.makeText(this, "Helo word", Toast.LENGTH_SHORT).show();
-        
-       
 
-        btn = findViewById(R.id.button);
-        btn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Toast.makeText(MainActivity.this, "Hello my app", Toast.LENGTH_SHORT).show();
-                Toast.makeText(MainActivity.this, "Android nâng cao", Toast.LENGTH_SHORT).show();
-
-            }
-        });
         // hello Hồ minh phú
     }
 }
