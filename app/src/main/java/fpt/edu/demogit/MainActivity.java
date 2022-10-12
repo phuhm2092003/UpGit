@@ -33,6 +33,5 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         Toast.makeText(this, "CLick me", Toast.LENGTH_SHORT).show();
-    
     }
 }
