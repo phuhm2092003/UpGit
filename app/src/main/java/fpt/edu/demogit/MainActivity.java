@@ -4,10 +4,12 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
+import android.widget.Button;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
+    Button btn;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -18,6 +20,14 @@ public class MainActivity extends AppCompatActivity {
         // phú sửa
         /// tú
         Toast.makeText(this, "Helo word", Toast.LENGTH_SHORT).show();
+
+        btn = findViewById(R.id.button);
+        btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Toast.makeText(MainActivity.this, "Hello my app", Toast.LENGTH_SHORT).show();
+            }
+        });
 
     }
 }
