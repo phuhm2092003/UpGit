@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "Hello android studio1", Toast.LENGTH_SHORT).show();
         // phú sửa
         /// tú
+        Toast.makeText(this, "Helo word", Toast.LENGTH_SHORT).show();
 
     }
 }
