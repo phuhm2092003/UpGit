@@ -17,15 +17,7 @@ public class MainActivity extends AppCompatActivity {
         // b comment
         Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
         
-        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "Hồ mình phú", Toast.LENGTH_SHORT).show();
+  
         
         
 
