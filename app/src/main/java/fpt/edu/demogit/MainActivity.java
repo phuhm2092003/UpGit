@@ -36,10 +36,13 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "Hello word", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "main", Toast.LENGTH_SHORT).show();
         // mới đảy code
-                Toast.makeText(this, "mới đẩy", Toast.LENGTH_SHORT).show();
-                        Toast.makeText(this, "mới đẩy2", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "mới đẩy", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "mới đẩy2", Toast.LENGTH_SHORT).show();
+
         Toast.makeText(this, "mới đẩy4", Toast.LENGTH_SHORT).show();
 
+
+        Toast.makeText(this, "mới đẩy3", Toast.LENGTH_SHORT).show();
 
 
     }
