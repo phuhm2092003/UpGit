@@ -22,5 +22,6 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "Helo word", Toast.LENGTH_SHORT).show();
 
         // hello Hồ minh phú
+        Toast.makeText(this, "CLick me", Toast.LENGTH_SHORT).show();
     }
 }
