@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Toast.makeText(MainActivity.this, "Hello my app", Toast.LENGTH_SHORT).show();
                 Toast.makeText(MainActivity.this, "Android nâng cao", Toast.LENGTH_SHORT).show();
+
             }
         });
         // hello Hồ minh phú
