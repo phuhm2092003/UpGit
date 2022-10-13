@@ -2,6 +2,7 @@ package fpt.edu.demogit;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -21,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, "Hello Android", Toast.LENGTH_SHORT).show();
                 Toast.makeText(MainActivity.this, "Hello Android2", Toast.LENGTH_SHORT).show();
                 Toast.makeText(MainActivity.this, "Hello Android3", Toast.LENGTH_SHORT).show();
+                Intent intent = getIntent();
             }
         });
     }
