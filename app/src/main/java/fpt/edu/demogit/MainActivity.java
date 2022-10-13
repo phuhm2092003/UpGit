@@ -11,6 +11,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     Button button;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -22,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, "Hello Android", Toast.LENGTH_SHORT).show();
                 Toast.makeText(MainActivity.this, "Hello Android2", Toast.LENGTH_SHORT).show();
                 Toast.makeText(MainActivity.this, "Hello Android3", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Hello Android4", Toast.LENGTH_SHORT).show();
                 Intent intent = getIntent();
             }
         });
