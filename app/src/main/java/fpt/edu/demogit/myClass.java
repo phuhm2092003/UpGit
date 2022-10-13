@@ -2,5 +2,6 @@ package fpt.edu.demogit;
 
 public class myClass {
     String name;
-    String name1;
+    int age;
+    int a1ge;
 }
