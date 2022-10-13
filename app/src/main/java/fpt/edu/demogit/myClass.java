@@ -1,2 +1,4 @@
-package fpt.edu.demogit;public class myClass {
+package fpt.edu.demogit;
+
+public class myClass {
 }
