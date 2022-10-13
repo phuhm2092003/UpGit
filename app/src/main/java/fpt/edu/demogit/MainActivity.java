@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(MainActivity.this, "Helllo Android", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Helllo Android Studio", Toast.LENGTH_SHORT).show();
             }
         });
     }
