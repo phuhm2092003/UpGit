@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = getIntent();
                 Toast.makeText(MainActivity.this, "Hello Android5", Toast.LENGTH_SHORT).show();
                 Toast.makeText(MainActivity.this, "Hello Android5", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Hello Android6", Toast.LENGTH_SHORT).show();
             }
         });
     }
