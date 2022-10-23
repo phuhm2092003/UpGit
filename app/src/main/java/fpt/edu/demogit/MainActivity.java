@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, "Hello Android5", Toast.LENGTH_SHORT).show();
                 Toast.makeText(MainActivity.this, "Hello Android6", Toast.LENGTH_SHORT).show();
                 Toast.makeText(MainActivity.this, "Hello Android7", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Hello Android8", Toast.LENGTH_SHORT).show();
             }
         });
     }
