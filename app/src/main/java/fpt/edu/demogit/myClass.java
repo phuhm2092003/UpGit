@@ -7,4 +7,5 @@ public class myClass {
     int ag2;
     int ag3;
     // commm
+    //
 }
